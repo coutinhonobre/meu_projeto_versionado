@@ -10,7 +10,8 @@ git add ./nome_do_repositorio_ou_arquivo
 #desvincular arquivos
 git rm -f ./nome_do_repositorio_ou_arquivo
 
-
+#voltar a versao 
+git checkout -- ./nome_do_repositorio_ou_arquivo
 
 
 
