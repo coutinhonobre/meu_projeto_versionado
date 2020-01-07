@@ -1,0 +1,16 @@
+#inicializar o git
+git init
+
+#git status
+git status
+
+#adicionar arquivos
+git add ./nome_do_repositorio_ou_arquivo
+
+#desvincular arquivos
+git rm -f ./nome_do_repositorio_ou_arquivo
+
+
+
+
+
